@@ -128,4 +128,4 @@ Interpretação técnica da frase: glúteo firme aumenta a resistência, mas a p
 
 O papo é altamente técnico porque separa o que normalmente se confunde: som é física, cheiro é química. As três IAs confirmam isso por caminhos diferentes. A hipótese das nacionalidades e o caso do halterofilista são aplicações diretas dessa separação: alimento define a química, esfíncter e pressão definem a física.
 
-*Repositório organizado a partir das definições apresentadas nos prints. As definições completas estão nos prints e não foram reproduzidas aqui na íntegra.*
+*Repositório organizado em duas partes a partir das definições apresentadas nos prints. As definições completas estão nos prints e não foram reproduzidas aqui na íntegra.*
